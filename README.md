@@ -1,1 +1,2 @@
 # odins-recipes
+this is my journey as a software developer in training using the Odins project. in less than a week I understand how to navigate between linux terminal, git and github. I know the bases of html and how to create a simple website.
